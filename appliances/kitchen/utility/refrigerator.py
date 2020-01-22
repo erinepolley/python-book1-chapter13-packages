@@ -1,6 +1,5 @@
 from appliances import Appliance
 
-
 def Refrigerator(Appliance):
 
     def __init__(self, color):

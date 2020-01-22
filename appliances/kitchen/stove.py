@@ -1,3 +1,5 @@
+from appliances import Appliance
+
 def Stove(Appliance):
 
     def __init__(self, color, heat_method="electric"):
